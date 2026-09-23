@@ -463,6 +463,13 @@ tr:hover {
     color: #9a3412;
 
     font-size: 14px;
+
+    overflow-x: auto;
+}
+
+#alertasRecurrencia table {
+    min-width: 900px;
+    width: 100%;
 }
 
 /* Botón de tema */
